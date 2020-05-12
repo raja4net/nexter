@@ -7,6 +7,7 @@
 }
 
 .nav-btn{
+    
     border:none;
     border-radius: 0;
     
@@ -31,4 +32,15 @@
     &::after{
         transform: translateY(1.3rem);
     }
+
 }
+/*
+.showNav, .show {
+    //display: flex;
+    //flex-direction: column;
+    padding-top: 8rem;
+    align-items: start;
+    width:100%;
+    height:100%;
+    background-color: green;
+} */
